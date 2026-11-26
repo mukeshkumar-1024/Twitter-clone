@@ -2,7 +2,9 @@
 
 A front-end recreation of the X (Twitter) interface, built with HTML and CSS to practise layout work. No JavaScript, no framework — the whole thing is markup and stylesheet.
 
-**Live demo:** _(enable GitHub Pages on this repo and put the link here)_
+**Live demo:** https://twitter-zsgb.onrender.com
+
+> Hosted on Render's free tier, which sleeps when idle — the first load can take up to a minute. After that it is quick.
 
 > A learning project. Not affiliated with, endorsed by, or connected to X (Twitter). All X (Twitter) names and logos belong to their owner; they appear here only because the exercise was to reproduce the layout.
 
@@ -29,13 +31,6 @@ cd Twitter-clone
 open index.html        # or just double-click the file
 ```
 
-## Publish it
-
-1. Repo → **Settings** → **Pages**
-2. **Source**: Deploy from a branch · Branch **main** · folder **/ (root)** · **Save**
-3. Live at `https://mukeshkumar-1024.github.io/Twitter-clone/`
-
-A layout project is worth far more with a live link than without one — this is the single most useful thing to do to this repo.
 
 ## License
 
