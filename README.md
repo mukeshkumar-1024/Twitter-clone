@@ -12,8 +12,7 @@ A front-end recreation of the X (Twitter) interface, built with HTML and CSS to 
 
 ## Screenshot
 
-<!-- Take a screenshot, save it as docs/screenshot.png, then uncomment: -->
-<!-- ![X — layout clone](docs/screenshot.png) -->
+![X — layout clone](docs/screenshot.png)
 
 ## What it covers
 
